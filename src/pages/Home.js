@@ -5,6 +5,7 @@ export default function Home() {
     <div className="App">
       <header className="App-header">
         <p>Nothing beats a jet 2 holiday</p>
+         <p>But right now u can save up 50 pounds per person</p>
       </header>
     </div>
   );
